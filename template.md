@@ -36,3 +36,6 @@ What will trigger the start of the test
 {stuff}
 
 The expected reaction and outcome.
+***
+
+Example can be found [here](https://github.com/gogamid/Testing/blob/main/example.md)
