@@ -1,28 +1,38 @@
-# {Search for a machine}
+# {stuff}
+
+A test case can be derived from a feature but also from a bug or a technical issue solved in the past
 
 ## Test Description
 
- {We test for correct functionality of the machine search within the app. The search is tested at all points and with all possible search parameters.}
+{stuff}
+
+General description of what will be tested and covered by the test
  ***
 
 ## Scenario
 
- {A user searches for "123" on the machine overview page}
+{stuff}
+
+One scenario of test case. It is possible that one test case contains more than one scenario
 ***
 
 ## Precondition
 
-{Use the Rest APIs /search endpoint to get the result for "123"}
+{stuff}
+
+What is needed to validate that the test was successfully
+
 ***
 
 ## Input
 
-{When pressing on the search bar on the machine overview page AND type in "123" AND press the search button right to the sear bar}
+{stuff}
+
+What will trigger the start of the test
 ***
 
 ## Expected Result
 
-{Then a loading bar appears for less then x seconds AND the machine list shows the same results as our Rest APIs /search endpoint}
+{stuff}
 
-
-
+The expected reaction and outcome.
