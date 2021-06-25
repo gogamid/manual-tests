@@ -26,6 +26,6 @@ Checking if clicking on the "i" symbol redirects to General section of a Machine
 ### S1: Expected Result
 
 * [ ] Redirection to General page of machine
-* [ ] both machine name on the map and in general page are same
+* [ ] both machine name on the map and in general page are same: "Demo Device EdMe"
 
 ***
