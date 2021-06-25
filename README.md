@@ -20,17 +20,15 @@ This test documentation will later be used to build automatic tests, e.g. via to
 
 ### Windowed
 
-- [ ] [model name view](./IOS/Map/Windowed/modelNameView.md )
-- [ ] redirection to navigation
-- [ ] info button
-- [ ] switch to full screen
+- [ ] [model name view](IOS/Map/Windowed/modelNameView.md )
+- [ ] [redirection to navigation](IOS/Map/Windowed/navigationRedirection.md)
+- [ ] [info button](IOS/Map/Windowed/infoButton.md )
+- [ ] [screen switch to full](IOS/Map/Windowed/fullScreenButton.md )
 
 ### Full-Screen
 
-- [ ] model name view
-- [ ] redirection to navigation
-- [ ] info button
-- [ ] change map type
-- [ ] back to windowed map
-
-
+- [ ] [view model name](IOS/Map/Full-Screen/modelNameView.md )
+- [ ] [navigation redirection to](IOS/Map/Full-Screen/navigationRedirection.md )
+- [ ] [button info](IOS/Map/Full-Screen/infoButton.md )
+- [ ] [type change map](IOS/Map/Full-Screen/mapTypes.md )
+- [ ] [back to windowed map](IOS/Map/Full-Screen/switchToWindowedMap.md)
