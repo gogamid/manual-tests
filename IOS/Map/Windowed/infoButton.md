@@ -2,7 +2,7 @@
 
 ## Test Description
 
-This case tests the functionality of Info Button (i)
+This case tests the functionality of Info Button (i) which opens General page of a machine
  ***
 
 ## Precondition
@@ -19,10 +19,13 @@ Checking if clicking on the "i" symbol redirects to General section of a Machine
 
 ### S1: Input
 
+* find machine named "Demo Device EdMe" near Fulda
+* click on it
 * click on the blue "i" symbol
 
 ### S1: Expected Result
 
 * [ ] Redirection to General page of machine
+* [ ] both machine name on the map and in general page are same
 
 ***
