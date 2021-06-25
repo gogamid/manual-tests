@@ -20,7 +20,7 @@ This test documentation will later be used to build automatic tests, e.g. via to
 
 ### Windowed
 
-- [ ] model name view
+- [ ] [model name view](./IOS/Map/Windowed/modelNameView.md )
 - [ ] redirection to navigation
 - [ ] info button
 - [ ] switch to full screen
