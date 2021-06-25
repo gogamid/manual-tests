@@ -15,7 +15,7 @@ This case tests the functionality of Info Button (i) which opens General page of
 
 ## Scenario 1 Click on "i" symbol
 
-Checking if clicking on the "i" symbol redirects to General section of a Machine.
+Checking if clicking on the "i" symbol of a machine "Demo Device EdMe" redirects to General section of the machine.
 
 ### S1: Input
 
@@ -25,7 +25,7 @@ Checking if clicking on the "i" symbol redirects to General section of a Machine
 
 ### S1: Expected Result
 
-* [ ] Redirection to General page of machine
+* [ ] Redirection to General page of the machine
 * [ ] both machine name on the map and in general page are same: "Demo Device EdMe"
 
 ***
