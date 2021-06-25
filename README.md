@@ -16,21 +16,21 @@ This test documentation will later be used to build automatic tests, e.g. via to
 
 # IOS
 
-## Map 
+## Map
 
-### Windowed 
+### Windowed
 
-* model name view
-* redirection to navigation
-* info button
-* switch to full screen
+- [ ] model name view
+- [ ] redirection to navigation
+- [ ] info button
+- [ ] switch to full screen
 
 ### Full-Screen
 
-* model name view
-* redirection to navigation
-* info button
-* change map type
-* back to windowed map
+- [ ] model name view
+- [ ] redirection to navigation
+- [ ] info button
+- [ ] change map type
+- [ ] back to windowed map
 
 
