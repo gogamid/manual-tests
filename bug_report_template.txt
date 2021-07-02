@@ -14,12 +14,12 @@
 -
 
 
-#### What's the actual result?
+### What's the actual result?
 
 -
 
 
 ### Additional details / screenshot
 
-- ![Screenshot]()
+- 
 -
