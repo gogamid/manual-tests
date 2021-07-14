@@ -15,6 +15,7 @@ This test documentation will later be used to build automatic tests, e.g. via to
 <hr />
 
 # IOS
+## Fingerprint
 
 ## Map
 
@@ -37,7 +38,7 @@ This test documentation will later be used to build automatic tests, e.g. via to
 
 - [ ] [refreshing list of machines](IOS/All-Machines/refresh.md)
 - [ ] [tap on machine name to open general page](IOS/All-Machines/clickOnMachineName.md)
-- [ ] [switching to attention section of machines](IOS/All-Machines/switchToAttentionSection.md)
+- [ ] [switching to attention tab of machines](IOS/All-Machines/switchToAttentionSection.md)
 
 ## Attention Needed Machines
 
@@ -45,3 +46,7 @@ This test documentation will later be used to build automatic tests, e.g. via to
 - [ ] [tap on machine name to open general page](IOS/Attention/clickOnMachineName.md)
 - [ ] [attention symbols and their quantity correct](IOS/Attention/attentionSymbols.md)
 - [ ] [tap on problematic symbol to open relevant page](IOS/Attention/redirectToRespectiveSymbolPage.md)
+## Filter
+## Sort
+## DTC
+## Maintenance
