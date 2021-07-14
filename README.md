@@ -18,14 +18,14 @@ This test documentation will later be used to build automatic tests, e.g. via to
 
 ## Map
 
-### Windowed
+### Windowed Map
 
 - [ ] [model name view](IOS/Map/Windowed/modelNameView.md )
 - [ ] [redirection to navigation](IOS/Map/Windowed/navigationRedirection.md)
 - [ ] [info button](IOS/Map/Windowed/infoButton.md )
 - [ ] [screen switch to full](IOS/Map/Windowed/fullScreenButton.md )
 
-### Full-Screen
+### Full Map
 
 - [ ] [view model name](IOS/Map/Full-Screen/modelNameView.md )
 - [ ] [navigation redirection to](IOS/Map/Full-Screen/navigationRedirection.md )
@@ -39,7 +39,7 @@ This test documentation will later be used to build automatic tests, e.g. via to
 - [ ] [tap on machine name to open general page](IOS/All-Machines/clickOnMachineName.md)
 - [ ] [switching to attention section of machines](IOS/All-Machines/switchToAttentionSection.md)
 
-## Attention
+## Attention Needed Machines
 
 - [ ] [refreshing list of machines](IOS/Attention/refresh.md)
 - [ ] [tap on machine name to open general page](IOS/Attention/clickOnMachineName.md)
